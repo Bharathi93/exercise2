@@ -1,0 +1,14 @@
+.first
+{
+margin:auto;
+font-family: sans-serif;
+width:500px;
+}
+blockquote
+{
+  border-style:solid;
+  border-width: 2px;
+  margin: auto;
+  margin-bottom: 10px;
+  text-align: center
+}
